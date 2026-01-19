@@ -10,7 +10,7 @@
 `Python` `Java` `HTML/CSS` `JavaScript` `Git`
 
 ### 🏗️ Projects
-- **[Project Name]** - A brief 1-sentence description of what it does.
+- **[Enviro]** - Enviro is a ai powered weather app like windy.
 - **[Project Name]** - A brief 1-sentence description of what it does.
 
 ### 📈 Activity
