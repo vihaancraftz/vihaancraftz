@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Vihaan aneja / @vihaancraftz] 👋
 
-<!--
-**vihaancraftz/vihaancraftz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 [CS Student/High School] | [Your Industry/Field]
+I am a passionate developer focused on building clean software and exploring new technologies. I use this space to document my learning journey.
 
-Here are some ideas to get you started:    
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io)
+![HTML5](https://img.shields.io)
+![Java](https://img.shields.io)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app[vihaancraftz]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app[vihaancraftz]&layout=compact&theme=radical)
+
+---
+
+### 🌱 Currently Working On
+- 🔭 [Project you are working on]
+- 📚 [Skills you are learning]
+- ⚡ Fun Fact: [Interesting fact about you]
