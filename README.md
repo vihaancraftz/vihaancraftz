@@ -14,4 +14,4 @@
 - **[Project Name]** - A brief 1-sentence description of what it does.
 
 ### 📈 Activity
-![GitHub Stats](https://github-readme-stats.vercel.app)
+![GitHub Stats]![vihaancraftz's Stats](https://github-readme-stats.vercel.app/api?username=vihaancraftz&theme=dracula&show_icons=true&hide_border=false&count_private=true)
