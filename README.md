@@ -10,7 +10,7 @@
 `Python` `Java` `HTML/CSS` `JavaScript` `Git` `Python` `C`
 
 ### 🏗️ Projects
-- **[Project Name]** - Nothing available right now.
+- **[GridUp]** - GridUp is a streamlined, minimalist task and progress tracker designed to cut through bloated project management tools.
 - **[Project Name]** - Nothing available right now.
 
 ### 📈 Activity
